@@ -1,4 +1,4 @@
-"""AnimeSaturn-downloader by Catta1997."""
+"""AnimeSaturn-downloader by AlexZorzi."""
 import concurrent.futures
 import configparser
 import getopt

@@ -1,4 +1,4 @@
-"""AnimeSaturn-downloader by Catta1997."""
+"""AnimeSaturn-downloader by AlexZorzi."""
 import os
 import signal
 import sys

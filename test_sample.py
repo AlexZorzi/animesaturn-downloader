@@ -1,4 +1,4 @@
-"""AnimeSaturn-downloader by Catta1997."""
+"""AnimeSaturn-downloader by AlexZorzi."""
 import start
 def test_answer():
     """Funzione utilizzata solo da travis."""
