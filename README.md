@@ -1,15 +1,5 @@
 # animesaturn-downloader
-![GitHub Pipenv locked Python version (branch)](https://img.shields.io/github/pipenv/locked/python-version/AlexZorzi/animesaturn-downloader/master?logo=python&logoColor=yellow)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/AlexZorzi/animesaturn-downloader/requests/master?color=yellow) 
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/AlexZorzi/animesaturn-downloader/beautifulsoup4/master?color=yellow)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/AlexZorzi/animesaturn-downloader/psutil/master?color=yellow)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/AlexZorzi/animesaturn-downloader/tqdm/master?color=yellow)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/AlexZorzi/animesaturn-downloader/wget/master?color=yellow)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/AlexZorzi/animesaturn-downloader/configparser/master?color=yellow)
 
-![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/AlexZorzi/animesaturn-downloader/master?logo=codefactor) 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/be1ac1ec55dc48678fbcaf15f8e69e3a)](https://app.codacy.com/gh/AlexZorzi/animesaturn-downloader?utm_source=github.com&utm_medium=referral&utm_content=AlexZorzi/animesaturn-downloader&utm_campaign=Badge_Grade) 
-![Travis (.com) branch](https://img.shields.io/travis/com/AlexZorzi/animesaturn-downloader/master?logo=travis)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)   
 
