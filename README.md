@@ -1,4 +1,4 @@
-# animesaturn-downloader
+# animesaturn-downloader [ Funziona 31/01/2021 ]
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)   

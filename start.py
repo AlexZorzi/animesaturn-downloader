@@ -13,9 +13,6 @@ def sig_handler(_signo, _stack_frame):
 
 def main():
     """Avvio."""
-    signal.signal(signal.SIGTERM, sig_handler)
-    signal.signal(signal.SIGINT, sig_handler)
-    signal.signal(signal.SIGHUP, sig_handler)
     AnimeSaturn()
 
 def test():
